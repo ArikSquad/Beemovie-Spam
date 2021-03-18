@@ -1,2 +1,2 @@
 # Beemovie-Spam
-Spammer
+Python spammer
